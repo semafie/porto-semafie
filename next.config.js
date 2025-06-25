@@ -2,7 +2,8 @@
 const nextConfig = {
   // Enable experimental features for better performance
   experimental: {
-    optimizeCss: true,
+    // Remove optimizeCss as it's causing critters module error
+    // optimizeCss: true,
     optimizePackageImports: ['lucide-react'],
   },
 
@@ -88,11 +89,11 @@ const nextConfig = {
   // React strict mode for better development
   reactStrictMode: true,
 
-  // SWC minification
-  swcMinify: true,
+  // Remove swcMinify as it's deprecated in Next.js 15
+  // swcMinify: true,
 
-  // Output configuration
-  output: 'standalone',
+  // Output configuration - remove standalone as it might cause issues
+  // output: 'standalone',
 
   // Webpack configuration for optimization
   webpack: (config, { dev, isServer }) => {
