@@ -41,7 +41,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Restu Imam Safii | Backend Developer, Frontend Developer & DevOps Engineer Portfolio',
     description: 'Portfolio profesional Restu Imam Safii - Backend Developer, Frontend Developer, dan DevOps Engineer berpengalaman. Spesialisasi Laravel, Flutter, MySQL, Docker, CI/CD, dan Linux Server.',
-    url: 'https://semafie.com',
+    url: 'https://semafie.upylon.com',
     siteName: 'Restu Imam Safii Portfolio',
     images: [
       {
@@ -63,9 +63,9 @@ export const metadata: Metadata = {
     creator: '@semafie',
     site: '@semafie',
   },
-  metadataBase: new URL('https://semafie.com'),
+  metadataBase: new URL('https://semafie.upylon.com'),
   alternates: {
-    canonical: 'https://semafie.com',
+    canonical: 'https://semafie.upylon.com',
   },
   robots: {
     index: true,
@@ -114,7 +114,7 @@ export default function RootLayout({
               "@type": "Person",
               "name": "Restu Imam Safii",
               "jobTitle": "Backend Developer, Frontend Developer, DevOps Engineer",
-              "url": "https://semafie.com",
+              "url": "https://semafie.upylon.com",
               "sameAs": [
                 "https://github.com/semafie",
                 "https://linkedin.com/in/restu-imam-safii"
@@ -163,7 +163,7 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "WebSite",
               "name": "Restu Imam Safii Portfolio",
-              "url": "https://semafie.com",
+              "url": "https://semafie.upylon.com",
               "description": "Portfolio profesional Restu Imam Safii - Backend Developer, Frontend Developer, dan DevOps Engineer",
               "author": {
                 "@type": "Person",

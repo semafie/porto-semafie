@@ -190,12 +190,12 @@ export default function ContactSection() {
             "@type": "ContactPage",
             "name": "Contact Restu Imam Safii",
             "description": "Get in touch with Restu Imam Safii for web development, mobile app development, and DevOps services",
-            "url": "https://semafie.com/contact",
+            "url": "https://semafie.upylon.com/contact",
             "mainEntity": {
               "@type": "Person",
               "name": "Restu Imam Safii",
               "email": "restuimamsafii@gmail.com",
-              "url": "https://semafie.com",
+              "url": "https://semafie.upylon.com",
               "sameAs": [
                 "https://github.com/semafie",
                 "https://linkedin.com/in/restu-imam-safii"

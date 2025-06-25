@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://semafie.com/sitemap.xml
+Sitemap: https://semafie.upylon.com/sitemap.xml
 
 # Crawl-delay
 Crawl-delay: 1
