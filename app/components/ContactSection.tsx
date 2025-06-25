@@ -2,101 +2,219 @@
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
-import { Github, Linkedin, Mail, ExternalLink } from "lucide-react"
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
+import { Mail, Phone, MapPin, Linkedin, Github } from "lucide-react"
 
 export default function ContactSection() {
   return (
-    <section id="contact" className="py-16 px-4 md:px-8 lg:px-96 xl:px-[400px] 2xl:px-[500px] bg-muted/30 relative overflow-hidden">
-      {/* Animated gradient blur background for dark mode */}
-      <div className="absolute inset-0 -z-10 dark:block hidden">
-        <div className="absolute top-1/4 right-1/3 w-96 h-96 bg-indigo-500/20 rounded-full blur-3xl animate-pulse-slow"></div>
-        <div className="absolute bottom-1/4 right-1/4 w-80 h-80 bg-teal-500/20 rounded-full blur-3xl animate-pulse-slow" style={{ animationDelay: '2.5s' }}></div>
-        <div className="absolute top-1/2 left-1/4 w-72 h-72 bg-yellow-500/20 rounded-full blur-3xl animate-pulse-slow" style={{ animationDelay: '1s' }}></div>
-      </div>
-      
-      <div className="max-w-8xl mx-auto relative z-10">
-        <h2 className="text-5xl font-bold text-center mb-20 animate-fade-in-up">Contact Me</h2>
+    <section
+      id="contact"
+      className="min-h-screen flex items-center justify-center px-12 md:px-24 lg:px-48 xl:px-64 2xl:px-80 py-16"
+      aria-labelledby="contact-title"
+    >
+      <div className="max-w-6xl mx-auto w-full space-y-12">
+        <div className="text-center space-y-4">
+          <h2 id="contact-title" className="text-4xl md:text-5xl font-bold text-white">
+            Get In Touch
+          </h2>
+          <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
+            Interested in working together? Let's discuss your project and see how I can help bring your ideas to life.
+          </p>
+        </div>
 
-        <div className="grid lg:grid-cols-2 gap-20">
-          {/* Left Column - Social Links */}
-          <div className="space-y-10 animate-slide-in-left">
-            <h3 className="text-3xl font-semibold mb-10">Let's Connect</h3>
-            <div className="space-y-4">
-              <a
-                href="https://github.com/semafie"
-                className="flex items-center gap-6 p-6 rounded-xl bg-card border border-border/50 hover:shadow-xl hover:scale-105 transition-all duration-300 group"
-              >
-                <div className="p-3 bg-primary/10 rounded-lg">
-                  <Github className="w-8 h-8 group-hover:scale-110 transition-transform" />
+        <div className="grid lg:grid-cols-2 gap-12">
+          {/* Contact Form */}
+          <Card className="bg-card/50 backdrop-blur-sm border border-border/50">
+            <CardHeader>
+              <CardTitle className="text-2xl text-white">Send Message</CardTitle>
+              <CardDescription className="text-muted-foreground">
+                Fill out the form below and I'll get back to you as soon as possible.
+              </CardDescription>
+            </CardHeader>
+            <CardContent className="space-y-6">
+              <div className="grid md:grid-cols-2 gap-4">
+                <div className="space-y-2">
+                  <label htmlFor="name" className="text-sm font-medium text-white">
+                    Name
+                  </label>
+                  <Input
+                    id="name"
+                    type="text"
+                    placeholder="Your name"
+                    className="bg-background/50 border-border/50 text-white placeholder:text-muted-foreground"
+                  />
                 </div>
-                <div>
-                  <h4 className="font-semibold text-lg">GitHub</h4>
-                  <p className="text-muted-foreground">Check out my repositories</p>
+                <div className="space-y-2">
+                  <label htmlFor="email" className="text-sm font-medium text-white">
+                    Email
+                  </label>
+                  <Input
+                    id="email"
+                    type="email"
+                    placeholder="your.email@example.com"
+                    className="bg-background/50 border-border/50 text-white placeholder:text-muted-foreground"
+                  />
                 </div>
-                <ExternalLink className="w-5 h-5 ml-auto opacity-50 group-hover:opacity-100" />
-              </a>
-
-              <a
-                href="https://www.linkedin.com/in/restu-imam-safii-6bb65424a/"
-                className="flex items-center gap-6 p-6 rounded-xl bg-card border border-border/50 hover:shadow-xl hover:scale-105 transition-all duration-300 group"
-              >
-                <div className="p-3 bg-primary/10 rounded-lg">
-                  <Linkedin className="w-8 h-8 group-hover:scale-110 transition-transform" />
-                </div>
-                <div>
-                  <h4 className="font-semibold text-lg">LinkedIn</h4>
-                  <p className="text-muted-foreground">Professional network</p>
-                </div>
-                <ExternalLink className="w-5 h-5 ml-auto opacity-50 group-hover:opacity-100" />
-              </a>
-
-              <a
-                href="mailto:restuimamsafii04@gmail.com"
-                className="flex items-center gap-6 p-6 rounded-xl bg-card border border-border/50 hover:shadow-xl hover:scale-105 transition-all duration-300 group"
-              >
-                <div className="p-3 bg-primary/10 rounded-lg">
-                  <Mail className="w-8 h-8 group-hover:scale-110 transition-transform" />
-                </div>
-                <div>
-                  <h4 className="font-semibold text-lg">Email</h4>
-                  <p className="text-muted-foreground">restuimamsafii04@gmail.com</p>
-                </div>
-                <ExternalLink className="w-5 h-5 ml-auto opacity-50 group-hover:opacity-100" />
-              </a>
-            </div>
-          </div>
-
-          {/* Right Column - Contact Form */}
-          <div className="animate-slide-in-right">
-            <h3 className="text-3xl font-semibold mb-10">Send Message</h3>
-            <form className="space-y-8">
-              <div>
-                <Input placeholder="Your Name" className="bg-background border-border/50 h-12 text-base" />
               </div>
-              <div>
+              <div className="space-y-2">
+                <label htmlFor="subject" className="text-sm font-medium text-white">
+                  Subject
+                </label>
                 <Input
-                  type="email"
-                  placeholder="Your Email"
-                  className="bg-background border-border/50 h-12 text-base"
+                  id="subject"
+                  type="text"
+                  placeholder="Project inquiry"
+                  className="bg-background/50 border-border/50 text-white placeholder:text-muted-foreground"
                 />
               </div>
-              <div>
+              <div className="space-y-2">
+                <label htmlFor="message" className="text-sm font-medium text-white">
+                  Message
+                </label>
                 <Textarea
-                  placeholder="Your Message"
+                  id="message"
+                  placeholder="Tell me about your project..."
                   rows={6}
-                  className="bg-background border-border/50 resize-none text-base"
+                  className="bg-background/50 border-border/50 text-white placeholder:text-muted-foreground resize-none"
                 />
               </div>
-              <Button
-                size="lg"
-                className="w-full bg-primary text-primary-foreground hover:bg-primary/90 hover:scale-105 transition-all duration-300 h-12 text-base"
-              >
+              <Button className="w-full bg-primary text-primary-foreground hover:bg-primary/90">
                 Send Message
               </Button>
-            </form>
+            </CardContent>
+          </Card>
+
+          {/* Contact Info */}
+          <div className="space-y-8">
+            <Card className="bg-card/50 backdrop-blur-sm border border-border/50">
+              <CardHeader>
+                <CardTitle className="text-2xl text-white">Contact Information</CardTitle>
+                <CardDescription className="text-muted-foreground">
+                  Feel free to reach out through any of these channels.
+                </CardDescription>
+              </CardHeader>
+              <CardContent className="space-y-6">
+                <div className="flex items-center space-x-4">
+                  <div className="p-3 bg-primary/10 rounded-lg">
+                    <Mail className="h-6 w-6 text-primary" />
+                  </div>
+                  <div>
+                    <p className="font-medium text-white">Email</p>
+                    <a 
+                      href="mailto:restuimamsafii@gmail.com" 
+                      className="text-muted-foreground hover:text-primary transition-colors"
+                      aria-label="Send email to restuimamsafii@gmail.com"
+                    >
+                      restuimamsafii@gmail.com
+                    </a>
+                  </div>
+                </div>
+                <div className="flex items-center space-x-4">
+                  <div className="p-3 bg-primary/10 rounded-lg">
+                    <MapPin className="h-6 w-6 text-primary" />
+                  </div>
+                  <div>
+                    <p className="font-medium text-white">Location</p>
+                    <p className="text-muted-foreground">Jember, East Java, Indonesia</p>
+                  </div>
+                </div>
+                <div className="flex items-center space-x-4">
+                  <div className="p-3 bg-primary/10 rounded-lg">
+                    <Linkedin className="h-6 w-6 text-primary" />
+                  </div>
+                  <div>
+                    <p className="font-medium text-white">LinkedIn</p>
+                    <a 
+                      href="https://linkedin.com/in/restu-imam-safii" 
+                      target="_blank" 
+                      rel="noopener noreferrer"
+                      className="text-muted-foreground hover:text-primary transition-colors"
+                      aria-label="Visit LinkedIn profile"
+                    >
+                      linkedin.com/in/restu-imam-safii
+                    </a>
+                  </div>
+                </div>
+                <div className="flex items-center space-x-4">
+                  <div className="p-3 bg-primary/10 rounded-lg">
+                    <Github className="h-6 w-6 text-primary" />
+                  </div>
+                  <div>
+                    <p className="font-medium text-white">GitHub</p>
+                    <a 
+                      href="https://github.com/semafie" 
+                      target="_blank" 
+                      rel="noopener noreferrer"
+                      className="text-muted-foreground hover:text-primary transition-colors"
+                      aria-label="Visit GitHub profile"
+                    >
+                      github.com/semafie
+                    </a>
+                  </div>
+                </div>
+              </CardContent>
+            </Card>
+
+            {/* Availability */}
+            <Card className="bg-card/50 backdrop-blur-sm border border-border/50">
+              <CardHeader>
+                <CardTitle className="text-xl text-white">Availability</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <div className="space-y-3">
+                  <div className="flex justify-between items-center">
+                    <span className="text-muted-foreground">Freelance Projects</span>
+                    <span className="text-green-400 font-medium">Available</span>
+                  </div>
+                  <div className="flex justify-between items-center">
+                    <span className="text-muted-foreground">Full-time Positions</span>
+                    <span className="text-yellow-400 font-medium">Open to offers</span>
+                  </div>
+                  <div className="flex justify-between items-center">
+                    <span className="text-muted-foreground">Remote Work</span>
+                    <span className="text-green-400 font-medium">Preferred</span>
+                  </div>
+                </div>
+              </CardContent>
+            </Card>
           </div>
         </div>
       </div>
+
+      {/* Structured Data for Contact Information */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "ContactPage",
+            "name": "Contact Restu Imam Safii",
+            "description": "Get in touch with Restu Imam Safii for web development, mobile app development, and DevOps services",
+            "url": "https://semafie.com/contact",
+            "mainEntity": {
+              "@type": "Person",
+              "name": "Restu Imam Safii",
+              "email": "restuimamsafii@gmail.com",
+              "url": "https://semafie.com",
+              "sameAs": [
+                "https://github.com/semafie",
+                "https://linkedin.com/in/restu-imam-safii"
+              ],
+              "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Jember",
+                "addressRegion": "East Java",
+                "addressCountry": "ID"
+              },
+              "jobTitle": "Backend Developer, Frontend Developer, DevOps Engineer",
+              "worksFor": {
+                "@type": "Organization",
+                "name": "Freelance"
+              }
+            }
+          })
+        }}
+      />
     </section>
   )
 } 

@@ -37,27 +37,32 @@ export default function HeroSection({ scrollToSection }: { scrollToSection: (sec
     <section
       id="hero"
       className="min-h-screen flex items-center justify-center px-12 md:px-24 lg:px-48 xl:px-64 2xl:px-80 pt-16"
+      aria-labelledby="hero-title"
     >
       <div className="max-w-6xl mx-auto text-center space-y-8 animate-fade-in-up">
-        <div className="space-y-6">
-          <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight text-white animate-fade-in-up">
+        <header className="space-y-6">
+          <h1 
+            id="hero-title"
+            className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight text-white animate-fade-in-up"
+          >
             Restu Imam Safii
           </h1>
           <div className="h-16 flex items-center justify-center">
-            <span className="text-4xl md:text-6xl lg:text-7xl font-mono font-bold bg-gradient-to-r from-blue-600 via-purple-600 to-cyan-600 bg-clip-text text-transparent animate-gradient-text">
+            <h2 className="text-4xl md:text-6xl lg:text-7xl font-mono font-bold bg-gradient-to-r from-blue-600 via-purple-600 to-cyan-600 bg-clip-text text-transparent animate-gradient-text">
               {displayed}
-              <span className="animate-blink">|</span>
-            </span>
+              <span className="animate-blink" aria-hidden="true">|</span>
+            </h2>
           </div>
           <p className="text-xl md:text-2xl lg:text-3xl text-muted-foreground max-w-4xl mx-auto leading-relaxed animate-fade-in-delayed">
             Mahasiswa Teknologi Informasi & Linux Enthusiast passionate about creating innovative digital solutions
           </p>
-        </div>
-        <div className="flex gap-6 justify-center animate-fade-in-delayed-2">
+        </header>
+        <nav className="flex gap-6 justify-center animate-fade-in-delayed-2" aria-label="Hero actions">
           <a
             href="https://github.com/Upylon"
             target="_blank"
             rel="noopener noreferrer"
+            aria-label="View my work on GitHub"
           >
             <Button
               size="lg"
@@ -71,10 +76,11 @@ export default function HeroSection({ scrollToSection }: { scrollToSection: (sec
             size="lg"
             onClick={() => scrollToSection("contact")}
             className="bg-background text-foreground border-border hover:bg-accent hover:scale-105 transition-all duration-300"
+            aria-label="Contact me"
           >
             Contact
           </Button>
-        </div>
+        </nav>
       </div>
     </section>
   )
