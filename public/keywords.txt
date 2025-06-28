@@ -1,0 +1,60 @@
+# Keywords for Restu Imam Safii Portfolio
+# Primary Keywords
+Restu Imam Safii
+Restu Imam Syafii
+Imam Safii
+Imam Syafii
+Restu Imam
+
+# Professional Keywords
+Backend Developer Indonesia
+Frontend Developer Indonesia
+DevOps Engineer Indonesia
+Full Stack Developer Indonesia
+Software Engineer Indonesia
+Web Developer Indonesia
+Mobile App Developer Indonesia
+Laravel Developer Indonesia
+Flutter Developer Indonesia
+React Developer Indonesia
+
+# Technology Keywords
+Laravel Framework
+Flutter Development
+MySQL Database
+Docker Container
+CI/CD Pipeline
+Linux Server Administration
+React.js
+Tailwind CSS
+API Development
+Database Design
+Server Management
+Cloud Infrastructure
+Git Version Control
+Agile Development
+
+# Location Keywords
+Developer Jember
+Programmer Jember
+IT Consultant Jember
+Software Engineer Jember
+Web Developer Jember
+Mobile Developer Jember
+
+# Company Keywords
+Upylon Developer
+Transrafa Developer
+Rescom Developer
+Portfolio Developer
+IT Professional Indonesia
+
+# Service Keywords
+Web Development Services
+Mobile App Development
+Database Administration
+Server Management
+API Integration
+DevOps Services
+Software Consulting
+IT Solutions Indonesia 

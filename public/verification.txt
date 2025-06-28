@@ -1,0 +1,12 @@
+# Google Search Console Verification
+# Add your verification code here when you set up Google Search Console
+# Example: google-site-verification: google1234567890abcdef.html
+
+# Bing Webmaster Tools Verification
+# Add your verification code here when you set up Bing Webmaster Tools
+
+# Yandex Webmaster Verification
+# Add your verification code here when you set up Yandex Webmaster
+
+# Baidu Webmaster Tools Verification
+# Add your verification code here when you set up Baidu Webmaster Tools 

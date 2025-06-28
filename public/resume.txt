@@ -1,0 +1,86 @@
+# Resume - Restu Imam Safii
+# Website: https://semafie.upylon.com
+
+## Contact Information
+**Name**: Restu Imam Safii (Restu Imam Syafii)
+**Email**: restu.imam.safii@gmail.com
+**Location**: Jember, Indonesia
+**Website**: https://semafie.upylon.com
+**LinkedIn**: linkedin.com/in/restu-imam-safii
+**GitHub**: github.com/semafie
+
+## Professional Summary
+Backend Developer, Frontend Developer, and DevOps Engineer with 3+ years of experience in web and mobile application development. Specialized in Laravel, Flutter, MySQL, Docker, and CI/CD. Proven track record of delivering high-quality, scalable solutions.
+
+## Work Experience
+
+### Backend Developer
+**Upylon** | 2023 - Present | Remote
+- Developed Laravel-based web applications and RESTful APIs
+- Optimized MySQL databases for 60% performance improvement
+- Managed server infrastructure and deployment pipelines
+- Reduced application load time by 40%
+
+### Full Stack Developer
+**Transrafa** | 2022 - 2023 | Remote
+- Built web and mobile applications using Laravel and Flutter
+- Created responsive interfaces with React.js
+- Implemented database design and optimization
+- Delivered 5+ successful projects on time
+
+### Web Developer
+**Rescom** | 2021 - 2022 | Remote
+- Developed custom web applications using Laravel
+- Implemented authentication and authorization systems
+- Optimized website performance and SEO
+- Maintained 99.9% uptime for applications
+
+## Education
+**Bachelor of Information Technology**
+Universitas Jember | 2020 - Present
+- Software Engineering, Database Management, Web Development
+
+## Technical Skills
+
+### Programming Languages
+- PHP (Laravel), JavaScript/TypeScript, Dart (Flutter)
+- SQL (MySQL, PostgreSQL), HTML/CSS, Shell Scripting
+
+### Frameworks & Technologies
+- Laravel, React.js, Flutter, Tailwind CSS, Bootstrap, Git
+
+### Databases & DevOps
+- MySQL, PostgreSQL, Redis, Docker, CI/CD, Linux Server
+
+### Tools
+- VS Code, Postman, Git/GitHub, Docker Desktop
+
+## Key Projects
+- **E-commerce Platform**: Laravel + React + MySQL
+- **Inventory Management**: Laravel + Vue.js + Docker
+- **CRM System**: Laravel + React + Redis
+- **Mobile App**: Flutter + Laravel API
+- **API Development**: RESTful APIs with documentation
+
+## Achievements
+- Reduced application load time by 40%
+- Optimized database queries for 60% faster performance
+- Implemented automated deployment pipelines
+- Delivered 15+ successful projects
+- 98% client satisfaction rate
+
+## Languages
+- Indonesian (Native), English (Professional)
+
+## Availability
+- Freelance Projects: Available
+- Full-time Opportunities: Available
+- Remote Work: Preferred
+- On-site: Jember area
+
+## Contact
+**Email**: restu.imam.safii@gmail.com
+**Website**: https://semafie.upylon.com
+
+## Last Updated
+January 27, 2025 

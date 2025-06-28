@@ -54,8 +54,15 @@ export default function HeroSection({ scrollToSection }: { scrollToSection: (sec
             </h2>
           </div>
           <p className="text-xl md:text-2xl lg:text-3xl text-muted-foreground max-w-4xl mx-auto leading-relaxed animate-fade-in-delayed">
-            Mahasiswa Teknologi Informasi & Linux Enthusiast passionate about creating innovative digital solutions
+            Mahasiswa Teknologi Informasi & Linux Enthusiast passionate about creating innovative digital solutions. 
+            Spesialisasi dalam pengembangan aplikasi web dan mobile menggunakan Laravel, Flutter, MySQL, Docker, dan CI/CD.
           </p>
+          <div className="text-lg text-muted-foreground/80 max-w-3xl mx-auto animate-fade-in-delayed-2">
+            <p>
+              Backend Developer, Frontend Developer, dan DevOps Engineer berpengalaman di Upylon, Transrafa, dan Rescom. 
+              Berbasis di Jember, Indonesia.
+            </p>
+          </div>
         </header>
         <nav className="flex gap-6 justify-center animate-fade-in-delayed-2" aria-label="Hero actions">
           <a

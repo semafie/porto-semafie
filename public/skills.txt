@@ -1,0 +1,312 @@
+# Technical Skills - Restu Imam Safii
+# Website: https://semafie.upylon.com
+
+## Programming Languages
+
+### PHP (Advanced)
+- Laravel Framework (Expert)
+- Object-Oriented Programming
+- Design Patterns (MVC, Repository, Factory)
+- Composer Package Management
+- PHPUnit Testing
+- Performance Optimization
+- Security Best Practices
+
+### JavaScript/TypeScript (Advanced)
+- ES6+ Features
+- React.js (Intermediate)
+- Vue.js (Intermediate)
+- Node.js (Basic)
+- TypeScript (Intermediate)
+- Async/Await Patterns
+- Module Systems
+
+### Dart (Intermediate)
+- Flutter Framework
+- Cross-platform Development
+- State Management (Provider, Bloc)
+- UI/UX Design
+- API Integration
+- App Store Deployment
+
+### SQL (Advanced)
+- MySQL (Expert)
+- PostgreSQL (Intermediate)
+- Query Optimization
+- Database Design
+- Stored Procedures
+- Triggers and Views
+- Performance Tuning
+
+### HTML/CSS (Advanced)
+- Semantic HTML5
+- CSS3 and Flexbox/Grid
+- Responsive Design
+- CSS Preprocessors (Sass/SCSS)
+- Tailwind CSS (Expert)
+- Bootstrap (Advanced)
+- Accessibility (WCAG)
+
+### Shell Scripting (Intermediate)
+- Bash Scripting
+- Linux Administration
+- Server Management
+- Automation Scripts
+- System Monitoring
+
+## Frameworks & Libraries
+
+### Backend Frameworks
+- Laravel (Expert)
+- CodeIgniter (Intermediate)
+- Slim Framework (Basic)
+
+### Frontend Frameworks
+- React.js (Intermediate)
+- Vue.js (Intermediate)
+- Next.js (Basic)
+
+### Mobile Frameworks
+- Flutter (Intermediate)
+- React Native (Basic)
+
+### CSS Frameworks
+- Tailwind CSS (Expert)
+- Bootstrap (Advanced)
+- Bulma (Intermediate)
+
+### Testing Frameworks
+- PHPUnit (Advanced)
+- Jest (Basic)
+- Flutter Testing (Intermediate)
+
+## Databases & Storage
+
+### Relational Databases
+- MySQL (Expert)
+- PostgreSQL (Intermediate)
+- SQLite (Intermediate)
+
+### NoSQL Databases
+- MongoDB (Basic)
+- Redis (Intermediate)
+
+### Database Tools
+- phpMyAdmin (Advanced)
+- MySQL Workbench (Advanced)
+- pgAdmin (Intermediate)
+- Redis Commander (Intermediate)
+
+## DevOps & Infrastructure
+
+### Containerization
+- Docker (Intermediate)
+- Docker Compose (Intermediate)
+- Multi-stage Builds
+- Image Optimization
+
+### CI/CD
+- GitHub Actions (Intermediate)
+- GitLab CI (Basic)
+- Jenkins (Basic)
+- Automated Testing
+- Deployment Automation
+
+### Server Management
+- Linux Server Administration (Intermediate)
+- Nginx Configuration (Intermediate)
+- Apache Configuration (Intermediate)
+- SSL Certificate Management
+- Server Security Hardening
+
+### Cloud Platforms
+- AWS (Basic)
+- Google Cloud (Basic)
+- DigitalOcean (Intermediate)
+- Vercel (Intermediate)
+- Netlify (Intermediate)
+
+## Development Tools
+
+### Version Control
+- Git (Advanced)
+- GitHub (Advanced)
+- GitLab (Intermediate)
+- Bitbucket (Basic)
+
+### IDEs & Editors
+- Visual Studio Code (Advanced)
+- PHPStorm (Intermediate)
+- Sublime Text (Intermediate)
+- Vim (Basic)
+
+### API Development
+- Postman (Advanced)
+- Insomnia (Intermediate)
+- Swagger/OpenAPI (Intermediate)
+- RESTful API Design
+
+### Database Tools
+- MySQL Workbench (Advanced)
+- phpMyAdmin (Advanced)
+- DBeaver (Intermediate)
+- TablePlus (Intermediate)
+
+## Web Technologies
+
+### Frontend Technologies
+- HTML5 (Advanced)
+- CSS3 (Advanced)
+- JavaScript ES6+ (Advanced)
+- TypeScript (Intermediate)
+- Progressive Web Apps (PWA)
+
+### Backend Technologies
+- PHP 8.x (Advanced)
+- Laravel 10.x (Expert)
+- RESTful APIs (Advanced)
+- GraphQL (Basic)
+- WebSockets (Intermediate)
+
+### Mobile Development
+- Flutter (Intermediate)
+- Dart (Intermediate)
+- Cross-platform Development
+- Native Performance
+- App Store Deployment
+
+## Performance & Optimization
+
+### Frontend Optimization
+- Code Splitting
+- Lazy Loading
+- Image Optimization
+- Minification
+- Caching Strategies
+- CDN Implementation
+
+### Backend Optimization
+- Database Query Optimization
+- Caching (Redis, Memcached)
+- Code Optimization
+- Memory Management
+- Load Balancing
+
+### Mobile Optimization
+- App Performance
+- Battery Optimization
+- Memory Management
+- Network Optimization
+
+## Security
+
+### Web Security
+- OWASP Top 10 Prevention
+- SQL Injection Prevention
+- XSS Protection
+- CSRF Protection
+- Input Validation
+- Authentication & Authorization
+
+### API Security
+- JWT Implementation
+- OAuth 2.0
+- Rate Limiting
+- API Key Management
+- HTTPS Implementation
+
+### Database Security
+- User Access Control
+- Data Encryption
+- Backup Security
+- Audit Logging
+
+## Testing & Quality Assurance
+
+### Testing Types
+- Unit Testing (Advanced)
+- Integration Testing (Intermediate)
+- End-to-End Testing (Basic)
+- Performance Testing (Intermediate)
+
+### Testing Tools
+- PHPUnit (Advanced)
+- Jest (Basic)
+- Flutter Testing (Intermediate)
+- Postman (Advanced)
+
+### Code Quality
+- Code Review
+- Static Analysis
+- Code Coverage
+- Documentation
+- Coding Standards
+
+## Project Management
+
+### Methodologies
+- Agile Development (Intermediate)
+- Scrum Framework (Intermediate)
+- Kanban (Basic)
+- Waterfall (Basic)
+
+### Tools
+- Jira (Intermediate)
+- Trello (Intermediate)
+- GitHub Projects (Intermediate)
+- Slack (Advanced)
+
+### Documentation
+- Technical Documentation
+- API Documentation
+- User Manuals
+- Code Documentation
+
+## Soft Skills
+
+### Communication
+- Technical Writing
+- Client Communication
+- Team Collaboration
+- Presentation Skills
+- Documentation
+
+### Problem Solving
+- Analytical Thinking
+- Debugging Skills
+- Troubleshooting
+- Creative Solutions
+- Root Cause Analysis
+
+### Leadership
+- Team Mentoring
+- Code Review
+- Best Practices Implementation
+- Knowledge Sharing
+- Technical Guidance
+
+## Languages
+- Indonesian (Native)
+- English (Professional)
+
+## Skill Levels
+- **Expert**: Laravel, MySQL, Tailwind CSS
+- **Advanced**: PHP, JavaScript, HTML/CSS, Git
+- **Intermediate**: Flutter, Docker, React, Vue.js
+- **Basic**: Node.js, AWS, MongoDB, GraphQL
+
+## Continuous Learning
+- Regular skill updates
+- New technology adoption
+- Industry best practices
+- Professional development
+- Community involvement
+
+## Contact Information
+- **Email**: restu.imam.safii@gmail.com
+- **LinkedIn**: linkedin.com/in/restu-imam-safii
+- **GitHub**: github.com/semafie
+- **Website**: https://semafie.upylon.com
+
+## Last Updated
+January 27, 2025 

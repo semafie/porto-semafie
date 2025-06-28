@@ -1,0 +1,185 @@
+# Credits & Acknowledgments - Restu Imam Safii Portfolio
+# Website: https://semafie.upylon.com
+
+## Website Credits
+
+### Developer & Designer
+- **Primary Developer**: Restu Imam Safii
+- **Design**: Custom design by Restu Imam Safii
+- **Development**: Full-stack development
+- **Maintenance**: Ongoing maintenance and updates
+
+### Technologies & Frameworks
+
+#### Frontend Technologies
+- **Next.js**: React framework for production
+- **React**: JavaScript library for user interfaces
+- **TypeScript**: Typed JavaScript for better development
+- **Tailwind CSS**: Utility-first CSS framework
+- **Framer Motion**: Animation library (if used)
+
+#### Backend & Infrastructure
+- **Node.js**: JavaScript runtime
+- **Vercel**: Deployment platform
+- **Git**: Version control system
+- **GitHub**: Code repository and hosting
+
+#### Development Tools
+- **VS Code**: Primary development environment
+- **ESLint**: Code linting and formatting
+- **Prettier**: Code formatting
+- **TypeScript**: Type checking
+
+### Design Resources
+
+#### Icons & Graphics
+- **Lucide React**: Modern icon library
+- **Custom Icons**: Designed specifically for this project
+- **SVG Graphics**: Scalable vector graphics
+
+#### Fonts
+- **System Fonts**: Native system fonts for performance
+- **Google Fonts**: Web fonts (if used)
+- **Font Display**: Optimized font loading
+
+#### Color Palette
+- **Primary Colors**: Custom color scheme
+- **Dark Mode**: High contrast dark theme
+- **Accessibility**: WCAG AA compliant colors
+
+### Third-Party Services
+
+#### Analytics & Monitoring
+- **Google Analytics**: Website analytics
+- **Google Search Console**: SEO monitoring
+- **Vercel Analytics**: Performance monitoring
+
+#### Development & Deployment
+- **Vercel**: Hosting and deployment
+- **GitHub**: Code repository
+- **Netlify**: Alternative hosting (if used)
+
+#### External APIs
+- **Email Services**: Contact form processing
+- **Social Media**: Integration with platforms
+- **CDN**: Content delivery network
+
+### Open Source Contributions
+
+#### Libraries Used
+- **React**: Facebook's UI library
+- **Next.js**: Vercel's React framework
+- **Tailwind CSS**: Adam Wathan's CSS framework
+- **TypeScript**: Microsoft's typed JavaScript
+- **Lucide React**: Icon library
+
+#### Code Snippets & Inspiration
+- **Community Examples**: Inspired by open source projects
+- **Documentation**: Based on official documentation
+- **Best Practices**: Following industry standards
+
+### Content & Media
+
+#### Written Content
+- **Professional Information**: Personal experience and skills
+- **Project Descriptions**: Real project details
+- **Technical Documentation**: Comprehensive documentation
+
+#### Images & Media
+- **Profile Photos**: Personal photographs
+- **Project Screenshots**: Actual project images
+- **Icons**: Custom and open source icons
+
+### Acknowledgments
+
+#### Professional Support
+- **Colleagues**: Support and feedback from team members
+- **Clients**: Inspiration from project requirements
+- **Mentors**: Guidance from experienced developers
+
+#### Community Support
+- **Open Source Community**: Tools and libraries
+- **Developer Communities**: Knowledge sharing
+- **Online Resources**: Tutorials and documentation
+
+#### Family & Friends
+- **Family Support**: Encouragement and understanding
+- **Friends**: Feedback and testing
+- **Network**: Professional connections
+
+### Special Thanks
+
+#### Technology Providers
+- **Vercel**: Excellent hosting and deployment platform
+- **GitHub**: Reliable code hosting and collaboration
+- **Tailwind CSS**: Amazing utility-first CSS framework
+- **Next.js Team**: Powerful React framework
+
+#### Community Members
+- **Laravel Community**: Backend development inspiration
+- **React Community**: Frontend development resources
+- **Flutter Community**: Mobile development knowledge
+- **DevOps Community**: Infrastructure and deployment insights
+
+#### Educational Resources
+- **Online Courses**: Continuous learning resources
+- **Documentation**: Comprehensive technical documentation
+- **Tutorials**: Step-by-step learning guides
+- **Blogs**: Industry insights and best practices
+
+### License Information
+
+#### Open Source Licenses
+- **MIT License**: Most open source libraries
+- **Apache License**: Some development tools
+- **GPL License**: Some utilities and tools
+
+#### Commercial Licenses
+- **Development Tools**: Licensed development software
+- **Design Resources**: Licensed design assets
+- **Hosting Services**: Commercial hosting platforms
+
+### Version History
+
+#### Major Versions
+- **v1.0**: Initial portfolio website
+- **v1.1**: SEO optimizations and improvements
+- **v1.2**: Accessibility enhancements
+- **v1.3**: Performance optimizations
+
+#### Update Log
+- **Regular Updates**: Continuous improvements
+- **Bug Fixes**: Ongoing maintenance
+- **Feature Additions**: New functionality
+- **Security Updates**: Security enhancements
+
+### Contact for Credits
+
+#### Credit Inquiries
+- **Email**: restu.imam.safii@gmail.com
+- **Subject**: CREDITS INQUIRY
+- **Response Time**: Within 48 hours
+- **Attribution**: Proper attribution requests
+
+#### Collaboration
+- **Open Source**: Contributions welcome
+- **Feedback**: Suggestions and improvements
+- **Partnership**: Professional collaborations
+- **Mentoring**: Knowledge sharing
+
+### Future Acknowledgments
+
+#### Planned Features
+- **Additional Projects**: More portfolio items
+- **Blog Content**: Technical articles and tutorials
+- **Community Contributions**: Open source work
+- **Speaking Engagements**: Conference presentations
+
+#### Continuous Improvement
+- **Regular Updates**: Ongoing development
+- **User Feedback**: Incorporating suggestions
+- **Technology Updates**: Staying current
+- **Best Practices**: Following industry standards
+
+## Last Updated
+January 27, 2025 

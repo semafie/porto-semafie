@@ -1,0 +1,57 @@
+# Accessibility Policy - Restu Imam Safii Portfolio
+# Website: https://semafie.upylon.com
+
+## Commitment to Accessibility
+This website is committed to providing an accessible experience for all users, including those with disabilities.
+
+## Accessibility Standards
+This website strives to comply with:
+- WCAG 2.1 AA standards
+- Section 508 guidelines
+- ADA requirements
+- International accessibility standards
+
+## Accessibility Features
+- Semantic HTML structure
+- ARIA labels and roles
+- Keyboard navigation support
+- Screen reader compatibility
+- High contrast mode
+- Responsive design
+- Alt text for images
+- Focus indicators
+- Skip navigation links
+
+## Assistive Technologies
+This website is compatible with:
+- Screen readers (NVDA, JAWS, VoiceOver)
+- Speech recognition software
+- Keyboard-only navigation
+- High contrast displays
+- Zoom functionality (up to 200%)
+
+## Testing and Compliance
+- Regular accessibility audits
+- User testing with assistive technologies
+- Automated accessibility testing
+- Manual testing procedures
+
+## Reporting Issues
+If you encounter accessibility issues:
+- Email: restu.imam.safii@gmail.com
+- Response time: Within 48 hours
+- Priority: High
+
+## Continuous Improvement
+- Regular accessibility reviews
+- User feedback integration
+- Technology updates
+- Training and awareness
+
+## Contact Information
+For accessibility concerns:
+- Email: restu.imam.safii@gmail.com
+- Website: https://semafie.upylon.com
+
+## Last Updated
+January 27, 2025 

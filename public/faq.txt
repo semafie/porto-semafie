@@ -1,0 +1,86 @@
+# Frequently Asked Questions - Restu Imam Safii Portfolio
+# Website: https://semafie.upylon.com
+
+## General Questions
+
+### Q: Who is Restu Imam Safii?
+A: Restu Imam Safii (also known as Restu Imam Syafii) is a Backend Developer, Frontend Developer, and DevOps Engineer based in Jember, Indonesia.
+
+### Q: What services do you offer?
+A: I offer web development, mobile app development, database design, server management, API development, and DevOps services.
+
+### Q: What technologies do you specialize in?
+A: Laravel, Flutter, MySQL, Docker, CI/CD, Linux Server, React, Tailwind CSS, and related technologies.
+
+### Q: Where are you located?
+A: I'm based in Jember, Indonesia, but work remotely with clients worldwide.
+
+## Services & Projects
+
+### Q: Do you take on freelance projects?
+A: Yes, I'm available for freelance projects and full-time opportunities.
+
+### Q: What types of projects do you work on?
+A: Web applications, mobile apps, API development, database design, server management, and DevOps automation.
+
+### Q: How long does a typical project take?
+A: Project duration varies based on complexity. Small projects: 1-2 weeks, Medium projects: 1-2 months, Large projects: 3-6 months.
+
+### Q: Do you provide ongoing support?
+A: Yes, I offer maintenance and support services for completed projects.
+
+## Technical Questions
+
+### Q: What programming languages do you use?
+A: PHP (Laravel), JavaScript/TypeScript, Dart (Flutter), SQL, and shell scripting.
+
+### Q: Do you work with databases?
+A: Yes, I specialize in MySQL database design, optimization, and administration.
+
+### Q: Can you help with server setup and management?
+A: Yes, I provide Linux server administration, Docker containerization, and CI/CD pipeline setup.
+
+### Q: Do you provide API development?
+A: Yes, I develop RESTful APIs and integrate third-party services.
+
+## Contact & Communication
+
+### Q: How can I contact you?
+A: Email: restu.imam.safii@gmail.com, LinkedIn: linkedin.com/in/restu-imam-safii
+
+### Q: What's your response time?
+A: I typically respond within 24 hours during business days.
+
+### Q: Do you work with international clients?
+A: Yes, I work with clients from around the world remotely.
+
+### Q: What languages do you speak?
+A: Indonesian and English.
+
+## Portfolio & Experience
+
+### Q: Where have you worked?
+A: I have experience at Upylon, Transrafa, and Rescom, among other companies.
+
+### Q: Can I see examples of your work?
+A: Check out my GitHub profile at github.com/semafie for code examples and projects.
+
+### Q: Do you have certifications?
+A: Yes, I have various technical certifications and continue to update my skills regularly.
+
+### Q: How long have you been developing?
+A: I have several years of experience in web and mobile development.
+
+## Pricing & Payment
+
+### Q: How do you price projects?
+A: Pricing depends on project scope, complexity, and timeline. I provide detailed quotes after understanding requirements.
+
+### Q: What payment terms do you offer?
+A: Typically 50% upfront and 50% upon completion, with milestone payments for larger projects.
+
+### Q: Do you offer maintenance packages?
+A: Yes, I offer ongoing maintenance and support packages at competitive rates.
+
+## Last Updated
+January 27, 2025 

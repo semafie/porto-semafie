@@ -1,0 +1,63 @@
+# Cookie Policy - Restu Imam Safii Portfolio
+# Website: https://semafie.upylon.com
+
+## What Are Cookies
+Cookies are small text files stored on your device when you visit a website.
+
+## How We Use Cookies
+This website uses cookies for:
+- Essential functionality
+- Performance optimization
+- User experience improvement
+- Analytics (anonymized)
+
+## Types of Cookies Used
+
+### Essential Cookies
+- Session management
+- Security features
+- Basic functionality
+
+### Performance Cookies
+- Page load optimization
+- Error tracking
+- Performance monitoring
+
+### Analytics Cookies
+- Google Analytics (anonymized)
+- Usage statistics
+- Traffic analysis
+
+## Cookie Management
+You can:
+- Accept all cookies
+- Reject non-essential cookies
+- Clear cookies from browser
+- Disable cookies in browser settings
+
+## Third-Party Cookies
+This website may use cookies from:
+- Google Analytics
+- Social media platforms
+- External services
+
+## Cookie Duration
+- Session cookies: Deleted when browser closes
+- Persistent cookies: Stored for specified period
+- Analytics cookies: Up to 2 years
+
+## Your Choices
+- Browser settings control
+- Cookie consent banner
+- Opt-out options available
+
+## Updates to Policy
+This cookie policy may be updated. Check regularly for changes.
+
+## Contact Information
+For cookie-related questions:
+- Email: restu.imam.safii@gmail.com
+- Website: https://semafie.upylon.com
+
+## Last Updated
+January 27, 2025 

@@ -1,0 +1,13 @@
+/* TEAM */
+    Developer: Restu Imam Safii (Restu Imam Syafii)
+    Contact: restu.imam.safii@gmail.com
+    From: Jember, Indonesia
+
+/* SITE */
+    Last update: 2025/01/27
+    Language: Indonesian, English
+    Doctype: HTML5
+    IDE: Visual Studio Code
+    Standards: HTML5, CSS3, JavaScript ES6+
+    Components: Next.js, React, Tailwind CSS
+    Software: Node.js, npm 

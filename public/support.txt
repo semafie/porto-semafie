@@ -1,0 +1,71 @@
+# Support Information - Restu Imam Safii Portfolio
+# Website: https://semafie.upylon.com
+
+## Getting Help
+If you need assistance with this website or have questions, here are the ways to get support.
+
+## Contact Methods
+- **Email**: restu.imam.safii@gmail.com
+- **Response Time**: Within 24 hours
+- **Business Hours**: Monday - Friday, 9 AM - 6 PM WIB
+
+## Common Issues & Solutions
+
+### Website Not Loading
+- Check your internet connection
+- Clear browser cache and cookies
+- Try a different browser
+- Check if the website is down
+
+### Display Issues
+- Refresh the page
+- Clear browser cache
+- Check browser compatibility
+- Try different screen resolution
+
+### Contact Form Issues
+- Check email address format
+- Ensure all required fields are filled
+- Try using a different email client
+- Check spam/junk folder
+
+## Browser Compatibility
+This website works best with:
+- Chrome (latest version)
+- Firefox (latest version)
+- Safari (latest version)
+- Edge (latest version)
+
+## Mobile Compatibility
+- iOS Safari (iOS 12+)
+- Chrome Mobile (Android 8+)
+- Samsung Internet (latest)
+
+## Performance Tips
+- Use a modern browser
+- Enable JavaScript
+- Allow cookies
+- Use a stable internet connection
+
+## Reporting Bugs
+When reporting issues, please include:
+- Browser name and version
+- Operating system
+- Steps to reproduce
+- Screenshots (if applicable)
+- Error messages
+
+## Feature Requests
+We welcome suggestions for improvements:
+- Email with subject "Feature Request"
+- Detailed description of the feature
+- Use case and benefits
+
+## Emergency Contact
+For urgent issues:
+- Email with subject "URGENT"
+- Include detailed description
+- Response within 4 hours
+
+## Last Updated
+January 27, 2025 

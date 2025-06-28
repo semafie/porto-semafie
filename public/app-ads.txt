@@ -1,0 +1,3 @@
+# App-ads.txt file for mobile app advertising
+# Currently no mobile apps with advertising
+# semafie.upylon.com, DIRECT, NO_MOBILE_ADS 

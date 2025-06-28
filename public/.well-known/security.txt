@@ -1,0 +1,4 @@
+Contact: mailto:restu.imam.safii@gmail.com
+Expires: 2026-12-31T23:59:59.000Z
+Preferred-Languages: id, en
+Canonical: https://semafie.upylon.com/.well-known/security.txt 

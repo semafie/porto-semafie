@@ -1,0 +1,32 @@
+# Security Policy for Restu Imam Safii Portfolio
+# Website: https://semafie.upylon.com
+
+## Supported Versions
+- Current version: 1.0.0
+- Last updated: January 27, 2025
+
+## Reporting a Vulnerability
+If you discover a security vulnerability, please report it to:
+- Email: restu.imafie.safii@gmail.com
+- Response time: Within 48 hours
+- Disclosure policy: Coordinated disclosure
+
+## Security Measures
+- HTTPS enforced
+- Security headers implemented
+- Content Security Policy (CSP) enabled
+- XSS protection enabled
+- CSRF protection enabled
+- Input validation and sanitization
+- Regular security updates
+
+## Data Protection
+- No personal data collection without consent
+- GDPR compliant practices
+- Secure data transmission
+- Regular security audits
+
+## Contact Information
+- Developer: Restu Imam Safii
+- Email: restu.imam.safii@gmail.com
+- Website: https://semafie.upylon.com 

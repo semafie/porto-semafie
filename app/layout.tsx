@@ -2,10 +2,14 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Restu Imam Safii | Backend Developer, Frontend Developer & DevOps Engineer Portfolio',
-  description: 'Portfolio profesional Restu Imam Safii - Backend Developer, Frontend Developer, dan DevOps Engineer berpengalaman. Spesialisasi Laravel, Flutter, MySQL, Docker, CI/CD, dan Linux Server. Berpengalaman di Upylon, Transrafa, dan Rescom.',
+  title: 'Restu Imam Safii (Restu Imam Syafii) | Backend Developer, Frontend Developer & DevOps Engineer Portfolio',
+  description: 'Portfolio profesional Restu Imam Safii (Restu Imam Syafii) - Backend Developer, Frontend Developer, dan DevOps Engineer berpengalaman. Spesialisasi Laravel, Flutter, MySQL, Docker, CI/CD, dan Linux Server. Berpengalaman di Upylon, Transrafa, dan Rescom.',
   keywords: [
     'Restu Imam Safii',
+    'Restu Imam Syafii',
+    'Restu Imam',
+    'Imam Safii',
+    'Imam Syafii',
     'Backend Developer Indonesia',
     'Frontend Developer Indonesia', 
     'DevOps Engineer Indonesia',
@@ -31,7 +35,10 @@ export const metadata: Metadata = {
     'Cloud Infrastructure',
     'Git Version Control',
     'Agile Development',
-    'Software Engineer Indonesia'
+    'Software Engineer Indonesia',
+    'Programmer Indonesia',
+    'Developer Jember',
+    'IT Consultant Indonesia'
   ],
   authors: [{ name: 'Restu Imam Safii' }],
   creator: 'Restu Imam Safii',
@@ -39,8 +46,8 @@ export const metadata: Metadata = {
   category: 'Technology',
   classification: 'Portfolio',
   openGraph: {
-    title: 'Restu Imam Safii | Backend Developer, Frontend Developer & DevOps Engineer Portfolio',
-    description: 'Portfolio profesional Restu Imam Safii - Backend Developer, Frontend Developer, dan DevOps Engineer berpengalaman. Spesialisasi Laravel, Flutter, MySQL, Docker, CI/CD, dan Linux Server.',
+    title: 'Restu Imam Safii (Restu Imam Syafii) | Backend Developer, Frontend Developer & DevOps Engineer Portfolio',
+    description: 'Portfolio profesional Restu Imam Safii (Restu Imam Syafii) - Backend Developer, Frontend Developer, dan DevOps Engineer berpengalaman. Spesialisasi Laravel, Flutter, MySQL, Docker, CI/CD, dan Linux Server.',
     url: 'https://semafie.upylon.com',
     siteName: 'Restu Imam Safii Portfolio',
     images: [
@@ -48,7 +55,7 @@ export const metadata: Metadata = {
         url: '/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'Restu Imam Safii - Backend, Frontend & DevOps Engineer Portfolio',
+        alt: 'Restu Imam Safii (Restu Imam Syafii) - Backend, Frontend & DevOps Engineer Portfolio',
         type: 'image/png',
       },
     ],
@@ -57,8 +64,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Restu Imam Safii | Backend Developer, Frontend Developer & DevOps Engineer Portfolio',
-    description: 'Portfolio profesional Restu Imam Safii - Backend Developer, Frontend Developer, dan DevOps Engineer berpengalaman.',
+    title: 'Restu Imam Safii (Restu Imam Syafii) | Backend Developer, Frontend Developer & DevOps Engineer Portfolio',
+    description: 'Portfolio profesional Restu Imam Safii (Restu Imam Syafii) - Backend Developer, Frontend Developer, dan DevOps Engineer berpengalaman.',
     images: ['/og-image.png'],
     creator: '@semafie',
     site: '@semafie',
@@ -113,6 +120,7 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "Person",
               "name": "Restu Imam Safii",
+              "alternateName": ["Restu Imam Syafii", "Imam Safii", "Imam Syafii"],
               "jobTitle": "Backend Developer, Frontend Developer, DevOps Engineer",
               "url": "https://semafie.upylon.com",
               "sameAs": [
@@ -144,13 +152,18 @@ export default function RootLayout({
                 "Tailwind CSS",
                 "Backend Development",
                 "Frontend Development",
-                "DevOps"
+                "DevOps",
+                "Web Development",
+                "Mobile App Development",
+                "Database Design",
+                "API Development"
               ],
               "address": {
                 "@type": "PostalAddress",
                 "addressLocality": "Jember",
                 "addressCountry": "ID"
-              }
+              },
+              "description": "Backend Developer, Frontend Developer, dan DevOps Engineer berpengalaman dengan spesialisasi Laravel, Flutter, MySQL, Docker, dan CI/CD."
             })
           }}
         />

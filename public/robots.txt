@@ -1,11 +1,78 @@
 User-agent: *
 Allow: /
 
+# Allow access to important files
+Allow: /sitemap.xml
+Allow: /robots.txt
+Allow: /humans.txt
+Allow: /.well-known/security.txt
+Allow: /manifest.json
+Allow: /ads.txt
+Allow: /app-ads.txt
+Allow: /verification.txt
+Allow: /keywords.txt
+Allow: /contact.txt
+Allow: /feed.xml
+Allow: /opensearch.xml
+Allow: /browserconfig.xml
+Allow: /security-policy.txt
+Allow: /README.md
+Allow: /status.txt
+Allow: /terms.txt
+Allow: /privacy.txt
+Allow: /cookies.txt
+Allow: /accessibility.txt
+Allow: /support.txt
+Allow: /faq.txt
+Allow: /services.txt
+Allow: /experience.txt
+Allow: /about.txt
+Allow: /portfolio.txt
+Allow: /testimonials.txt
+Allow: /blog.txt
+Allow: /cv.txt
+Allow: /resume.txt
+Allow: /certificates.txt
+Allow: /skills.txt
+Allow: /contact-info.txt
+Allow: /links.txt
+Allow: /sitemap-index.xml
+Allow: /sitemap-pages.xml
+Allow: /sitemap-resources.xml
+Allow: /security-headers.txt
+Allow: /performance.txt
+Allow: /accessibility-statement.txt
+Allow: /credits.txt
+Allow: /changelog.txt
+
+# Disallow error pages from indexing
+Disallow: /404.html
+Disallow: /500.html
+
 # Sitemap
 Sitemap: https://semafie.upylon.com/sitemap.xml
 
 # Crawl-delay
 Crawl-delay: 1
+
+# Allow all search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
 
 # Disallow admin or private areas (if any)
 # Disallow: /admin/

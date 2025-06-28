@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Restu Imam Safii Portfolio</title>
+    <link>https://semafie.upylon.com</link>
+    <description>Portfolio profesional Restu Imam Safii - Backend Developer, Frontend Developer, dan DevOps Engineer</description>
+    <language>id</language>
+    <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0700</lastBuildDate>
+    <atom:link href="https://semafie.upylon.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Portfolio Restu Imam Safii - Backend, Frontend & DevOps Engineer</title>
+      <link>https://semafie.upylon.com</link>
+      <description>Portfolio profesional Restu Imam Safii (Restu Imam Syafii) - Backend Developer, Frontend Developer, dan DevOps Engineer berpengalaman. Spesialisasi Laravel, Flutter, MySQL, Docker, CI/CD, dan Linux Server.</description>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0700</pubDate>
+      <guid>https://semafie.upylon.com</guid>
+    </item>
+  </channel>
+</rss> 

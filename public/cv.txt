@@ -1,0 +1,180 @@
+# Curriculum Vitae - Restu Imam Safii
+# Website: https://semafie.upylon.com
+
+## Personal Information
+**Name**: Restu Imam Safii (Restu Imam Syafii)
+**Email**: restu.imam.safii@gmail.com
+**Phone**: [Phone Number]
+**Location**: Jember, Indonesia
+**Website**: https://semafie.upylon.com
+**LinkedIn**: linkedin.com/in/restu-imam-safii
+**GitHub**: github.com/semafie
+
+## Professional Summary
+Experienced Backend Developer, Frontend Developer, and DevOps Engineer with several years of expertise in web and mobile application development. Specialized in Laravel, Flutter, MySQL, Docker, and CI/CD technologies. Proven track record of delivering high-quality, scalable solutions for various industries.
+
+## Professional Experience
+
+### Backend Developer
+**Company**: Upylon
+**Duration**: 2023 - Present
+**Location**: Remote
+**Key Achievements**:
+- Developed and maintained Laravel-based web applications
+- Designed and optimized MySQL databases for high performance
+- Implemented RESTful APIs for mobile and web clients
+- Managed server infrastructure and deployment pipelines
+- Collaborated with cross-functional teams on large-scale projects
+- Reduced application load time by 40% through optimization
+
+### Full Stack Developer
+**Company**: Transrafa
+**Duration**: 2022 - 2023
+**Location**: Remote
+**Key Achievements**:
+- Built complete web and mobile applications using Laravel and Flutter
+- Developed cross-platform mobile apps with native-like performance
+- Created responsive web interfaces with React.js
+- Implemented comprehensive database design and optimization
+- Managed project timelines and client communication
+- Delivered 5+ successful projects on time and within budget
+
+### Web Developer
+**Company**: Rescom
+**Duration**: 2021 - 2022
+**Location**: Remote
+**Key Achievements**:
+- Developed custom web applications using Laravel framework
+- Created efficient database schemas and optimized queries
+- Implemented secure user authentication and authorization systems
+- Optimized website performance and SEO for better rankings
+- Provided comprehensive client training and documentation
+- Maintained existing applications with 99.9% uptime
+
+## Education
+
+### Bachelor of Information Technology
+**Institution**: Universitas Jember
+**Duration**: 2020 - Present
+**Location**: Jember, Indonesia
+**Focus Areas**:
+- Software Engineering
+- Database Management Systems
+- Web Development Technologies
+- Mobile Application Development
+- Network Administration
+- Information Security
+
+## Technical Skills
+
+### Programming Languages
+- **PHP** (Advanced) - Laravel framework, OOP, design patterns
+- **JavaScript/TypeScript** (Advanced) - React, Vue.js, Node.js
+- **Dart** (Intermediate) - Flutter development
+- **SQL** (Advanced) - MySQL, PostgreSQL, query optimization
+- **HTML/CSS** (Advanced) - Responsive design, modern CSS
+- **Shell Scripting** (Intermediate) - Linux administration
+
+### Frameworks & Technologies
+- **Laravel** (Advanced) - Full-stack development, API development
+- **React.js** (Intermediate) - Frontend development, state management
+- **Flutter** (Intermediate) - Cross-platform mobile development
+- **Tailwind CSS** (Advanced) - Utility-first CSS framework
+- **Bootstrap** (Advanced) - Responsive UI framework
+- **Git** (Advanced) - Version control, collaboration
+
+### Databases & Storage
+- **MySQL** (Advanced) - Database design, optimization, administration
+- **PostgreSQL** (Intermediate) - Advanced database features
+- **Redis** (Intermediate) - Caching, session management
+- **MongoDB** (Basic) - NoSQL database operations
+
+### DevOps & Infrastructure
+- **Docker** (Intermediate) - Containerization, deployment
+- **CI/CD** (Intermediate) - Automated deployment pipelines
+- **Linux Server** (Intermediate) - Server administration, security
+- **AWS/Cloud** (Basic) - Cloud platform services
+- **Nginx/Apache** (Intermediate) - Web server configuration
+
+### Tools & Platforms
+- **VS Code** (Advanced) - Primary development environment
+- **Git/GitHub** (Advanced) - Version control and collaboration
+- **Postman** (Advanced) - API testing and documentation
+- **Docker Desktop** (Intermediate) - Container management
+- **XAMPP/LAMP** (Advanced) - Local development environment
+
+## Certifications
+
+### Technical Certifications
+- Laravel Framework Certification
+- MySQL Database Administration
+- Docker Containerization
+- Linux Server Management
+- Flutter Development
+- React.js Development
+
+### Professional Development
+- Agile Development Methodologies
+- DevOps Best Practices
+- API Design Principles
+- Security Best Practices
+- Performance Optimization
+- User Experience Design
+
+## Projects & Achievements
+
+### Notable Projects
+- **E-commerce Platform** - Complete online store with payment integration
+- **Inventory Management System** - Real-time tracking and reporting
+- **CRM System** - Customer relationship management with analytics
+- **Mobile App** - Cross-platform service booking application
+- **API Development** - RESTful APIs for third-party integrations
+- **Database Migration** - Large-scale data migration and optimization
+
+### Technical Achievements
+- Reduced application load time by 40% through optimization
+- Implemented automated deployment pipelines reducing deployment time by 70%
+- Optimized database queries for 60% faster performance
+- Developed reusable component libraries improving development speed
+- Created comprehensive API documentation for better integration
+- Established coding standards and best practices for teams
+
+## Languages
+- **Indonesian** (Native)
+- **English** (Professional)
+
+## Professional Development
+
+### Continuous Learning
+- Regular participation in online courses and workshops
+- Active involvement in developer communities
+- Contribution to open-source projects
+- Following industry best practices and trends
+- Attending technical conferences and meetups
+
+### Industry Knowledge
+- Web development trends and technologies
+- Mobile app development best practices
+- Database optimization techniques
+- DevOps and infrastructure management
+- Security best practices and compliance
+- Performance optimization strategies
+
+## Availability
+- **Freelance Projects**: Available for contract work
+- **Full-time Opportunities**: Open to permanent positions
+- **Part-time Consulting**: Available for technical consulting
+- **Remote Work**: Experienced in remote collaboration
+- **On-site Work**: Available in Jember area
+
+## References
+Available upon request from previous employers and clients.
+
+## Contact Information
+- **Email**: restu.imam.safii@gmail.com
+- **LinkedIn**: linkedin.com/in/restu-imam-safii
+- **GitHub**: github.com/semafie
+- **Website**: https://semafie.upylon.com
+
+## Last Updated
+January 27, 2025 

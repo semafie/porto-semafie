@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Restu Imam Safii Portfolio</ShortName>
+  <Description>Search Restu Imam Safii's professional portfolio</Description>
+  <Tags>portfolio developer backend frontend devops</Tags>
+  <Contact>restu.imam.safii@gmail.com</Contact>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://semafie.upylon.com/opensearch.xml"/>
+  <Url type="text/html" rel="results" template="https://semafie.upylon.com/?q={searchTerms}"/>
+  <LongName>Restu Imam Safii - Backend Developer, Frontend Developer & DevOps Engineer Portfolio</LongName>
+  <Image height="16" width="16" type="image/x-icon">https://semafie.upylon.com/favicon.ico</Image>
+  <Query role="example" searchTerms="Laravel Flutter MySQL"/>
+  <Developer>Restu Imam Safii</Developer>
+  <Attribution>Search results from Restu Imam Safii Portfolio</Attribution>
+  <SyndicationRight>open</SyndicationRight>
+  <AdultContent>false</AdultContent>
+  <Language>id</Language>
+  <OutputEncoding>UTF-8</OutputEncoding>
+  <InputEncoding>UTF-8</InputEncoding>
+</OpenSearchDescription> 

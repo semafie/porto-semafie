@@ -1,0 +1,171 @@
+# Accessibility Statement - Restu Imam Safii Portfolio
+# Website: https://semafie.upylon.com
+
+## Commitment to Accessibility
+
+Restu Imam Safii Portfolio is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying the relevant accessibility standards.
+
+## Conformance Status
+
+This website strives to conform to the Web Content Accessibility Guidelines (WCAG) 2.1 Level AA. These guidelines explain how to make web content more accessible for people with disabilities and more user-friendly for everyone.
+
+## Accessibility Features
+
+### Keyboard Navigation
+- **Full Keyboard Access**: All functionality accessible via keyboard
+- **Skip Navigation**: Skip to main content links
+- **Focus Indicators**: Clear focus indicators for all interactive elements
+- **Tab Order**: Logical tab order throughout the site
+
+### Screen Reader Support
+- **Semantic HTML**: Proper heading structure and landmarks
+- **ARIA Labels**: Descriptive labels for interactive elements
+- **Alt Text**: Descriptive alt text for all images
+- **Form Labels**: Properly labeled form fields
+
+### Visual Accessibility
+- **Color Contrast**: High contrast ratios for text readability
+- **Font Sizing**: Scalable text that can be enlarged
+- **Responsive Design**: Adapts to different screen sizes
+- **Dark Mode**: High contrast dark theme available
+
+### Content Accessibility
+- **Plain Language**: Clear and simple language
+- **Structured Content**: Logical content organization
+- **Multimedia**: Captions and transcripts where applicable
+- **Links**: Descriptive link text
+
+## Known Limitations
+
+While we strive for comprehensive accessibility, some areas may have limitations:
+
+- **Third-party Content**: External content may not be fully accessible
+- **Complex Interactions**: Some advanced features may require alternative methods
+- **Legacy Content**: Older content may not meet current standards
+
+## Testing and Compliance
+
+### Testing Methods
+- **Automated Testing**: Regular automated accessibility scans
+- **Manual Testing**: Manual testing with assistive technologies
+- **User Testing**: Testing with users who have disabilities
+- **Expert Review**: Regular reviews by accessibility experts
+
+### Assistive Technologies Tested
+- **Screen Readers**: NVDA, JAWS, VoiceOver, TalkBack
+- **Voice Recognition**: Dragon NaturallySpeaking
+- **Magnification Software**: ZoomText, Windows Magnifier
+- **Switch Devices**: Switch navigation support
+
+## Feedback and Support
+
+### Reporting Issues
+If you encounter accessibility barriers or have suggestions for improvement:
+
+- **Email**: restu.imam.safii@gmail.com
+- **Subject**: ACCESSIBILITY ISSUE
+- **Response Time**: Within 48 hours
+- **Priority**: High priority for accessibility issues
+
+### Information to Include
+When reporting accessibility issues, please include:
+- **Page URL**: Specific page where issue occurs
+- **Description**: Detailed description of the problem
+- **Assistive Technology**: Technology being used
+- **Steps to Reproduce**: How to reproduce the issue
+
+## Continuous Improvement
+
+### Regular Updates
+- **Monthly Reviews**: Regular accessibility audits
+- **User Feedback**: Incorporating user suggestions
+- **Technology Updates**: Staying current with accessibility standards
+- **Training**: Ongoing accessibility training
+
+### Improvement Process
+1. **Identify Issues**: Regular testing and user feedback
+2. **Prioritize**: Based on impact and user needs
+3. **Implement**: Develop and test solutions
+4. **Verify**: Confirm improvements work for all users
+
+## Technical Implementation
+
+### HTML Structure
+- **Semantic Elements**: Proper use of HTML5 semantic elements
+- **Landmarks**: ARIA landmarks for navigation
+- **Headings**: Proper heading hierarchy (H1-H6)
+- **Lists**: Proper list structure
+
+### CSS Accessibility
+- **Focus Styles**: Visible focus indicators
+- **Color Contrast**: WCAG AA compliant contrast ratios
+- **Responsive Design**: Mobile-first responsive design
+- **Print Styles**: Accessible print stylesheets
+
+### JavaScript Accessibility
+- **Event Handling**: Keyboard and mouse event support
+- **Dynamic Content**: ARIA live regions for updates
+- **Form Validation**: Accessible error messages
+- **Navigation**: Keyboard navigation support
+
+## Standards and Guidelines
+
+### Compliance Standards
+- **WCAG 2.1 AA**: Primary accessibility standard
+- **Section 508**: US federal accessibility requirements
+- **ADA**: Americans with Disabilities Act compliance
+- **EN 301 549**: European accessibility standard
+
+### Best Practices
+- **Universal Design**: Design for all users
+- **Progressive Enhancement**: Core functionality without JavaScript
+- **Graceful Degradation**: Fallbacks for advanced features
+- **User-Centered Design**: Focus on user needs
+
+## Resources and Support
+
+### Accessibility Tools
+- **Browser Extensions**: Accessibility testing tools
+- **Screen Readers**: Free and commercial options
+- **Color Contrast**: Online contrast checkers
+- **Validation Tools**: Automated testing tools
+
+### External Resources
+- **WCAG Guidelines**: https://www.w3.org/WAI/WCAG21/quickref/
+- **WebAIM**: https://webaim.org/
+- **A11Y Project**: https://www.a11yproject.com/
+- **MDN Accessibility**: https://developer.mozilla.org/en-US/docs/Web/Accessibility
+
+## Contact Information
+
+### Accessibility Contact
+- **Email**: restu.imam.safii@gmail.com
+- **Subject**: ACCESSIBILITY
+- **Response Time**: Within 48 hours
+- **Languages**: Indonesian and English
+
+### Additional Support
+- **Documentation**: /accessibility.txt
+- **Support**: /support.txt
+- **FAQ**: /faq.txt
+- **Contact Info**: /contact-info.txt
+
+## Review and Updates
+
+### Statement Review
+This accessibility statement is reviewed and updated:
+- **Annually**: Comprehensive review
+- **Quarterly**: Minor updates and improvements
+- **As Needed**: Based on user feedback and testing
+
+### Last Review
+- **Date**: January 27, 2025
+- **Next Review**: April 27, 2025
+- **Version**: 1.0
+
+## Commitment Statement
+
+We are committed to making our website accessible to all users, including those with disabilities. We believe that digital accessibility is not just a legal requirement but a fundamental aspect of good user experience design. We will continue to work towards full accessibility compliance and welcome feedback from all users.
+
+## Last Updated
+January 27, 2025 

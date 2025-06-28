@@ -1,0 +1,150 @@
+# Work Experience - Restu Imam Safii Portfolio
+# Website: https://semafie.upylon.com
+
+## Professional Experience
+
+### Upylon
+**Position**: Backend Developer
+**Duration**: 2023 - Present
+**Location**: Remote
+**Technologies**: Laravel, MySQL, Docker, CI/CD, Linux Server
+**Responsibilities**:
+- Developed and maintained Laravel-based web applications
+- Designed and optimized MySQL databases
+- Implemented RESTful APIs for mobile and web clients
+- Managed server infrastructure and deployment pipelines
+- Collaborated with frontend developers and DevOps teams
+- Performed code reviews and technical documentation
+
+### Transrafa
+**Position**: Full Stack Developer
+**Duration**: 2022 - 2023
+**Location**: Remote
+**Technologies**: Laravel, Flutter, MySQL, React, Docker
+**Responsibilities**:
+- Built complete web and mobile applications
+- Developed cross-platform mobile apps using Flutter
+- Created responsive web interfaces with React
+- Implemented database design and optimization
+- Managed project timelines and client communication
+- Provided technical support and maintenance
+
+### Rescom
+**Position**: Web Developer
+**Duration**: 2021 - 2022
+**Location**: Remote
+**Technologies**: Laravel, MySQL, JavaScript, HTML/CSS
+**Responsibilities**:
+- Developed custom web applications
+- Created database schemas and queries
+- Implemented user authentication and authorization
+- Optimized website performance and SEO
+- Provided client training and documentation
+- Maintained existing applications and bug fixes
+
+## Educational Background
+
+### Universitas Jember
+**Degree**: Teknologi Informasi (Information Technology)
+**Duration**: 2020 - Present
+**Location**: Jember, Indonesia
+**Focus Areas**:
+- Software Engineering
+- Database Management
+- Web Development
+- Mobile Development
+- Network Administration
+
+## Certifications & Training
+
+### Technical Certifications
+- Laravel Framework Certification
+- MySQL Database Administration
+- Docker Containerization
+- Linux Server Management
+- Flutter Development
+- React.js Development
+
+### Professional Development
+- Agile Development Methodologies
+- DevOps Best Practices
+- API Design Principles
+- Security Best Practices
+- Performance Optimization
+- User Experience Design
+
+## Skills & Expertise
+
+### Programming Languages
+- PHP (Advanced)
+- JavaScript/TypeScript (Advanced)
+- Dart (Intermediate)
+- SQL (Advanced)
+- HTML/CSS (Advanced)
+- Shell Scripting (Intermediate)
+
+### Frameworks & Technologies
+- Laravel (Advanced)
+- React.js (Intermediate)
+- Flutter (Intermediate)
+- Tailwind CSS (Advanced)
+- Bootstrap (Advanced)
+- Git (Advanced)
+
+### Databases & Storage
+- MySQL (Advanced)
+- PostgreSQL (Intermediate)
+- Redis (Intermediate)
+- MongoDB (Basic)
+
+### DevOps & Infrastructure
+- Docker (Intermediate)
+- CI/CD Pipelines (Intermediate)
+- Linux Server Administration (Intermediate)
+- AWS/Cloud Platforms (Basic)
+- Nginx/Apache (Intermediate)
+
+### Tools & Platforms
+- VS Code (Advanced)
+- Git/GitHub (Advanced)
+- Postman (Advanced)
+- Docker Desktop (Intermediate)
+- XAMPP/LAMP (Advanced)
+
+## Projects & Achievements
+
+### Notable Projects
+- E-commerce Platform Development
+- Inventory Management System
+- Customer Relationship Management (CRM)
+- Mobile App for Service Booking
+- API Development for Third-party Integration
+- Database Migration and Optimization
+
+### Technical Achievements
+- Reduced application load time by 40%
+- Implemented automated deployment pipelines
+- Optimized database queries for 60% faster performance
+- Developed reusable component libraries
+- Created comprehensive API documentation
+- Established coding standards and best practices
+
+## Languages
+- Indonesian (Native)
+- English (Professional)
+
+## Availability
+- **Freelance Projects**: Available
+- **Full-time Opportunities**: Available
+- **Part-time Consulting**: Available
+- **Remote Work**: Preferred
+- **On-site Work**: Available in Jember area
+
+## Contact Information
+- **Email**: restu.imam.safii@gmail.com
+- **LinkedIn**: linkedin.com/in/restu-imam-safii
+- **GitHub**: github.com/semafie
+- **Website**: https://semafie.upylon.com
+
+## Last Updated
+January 27, 2025 
